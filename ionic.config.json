@@ -1,0 +1,7 @@
+{
+  "name": "sdos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
